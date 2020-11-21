@@ -1,0 +1,17 @@
+{
+	"name": "nodemailerexample",
+	"version": "1.0.0",
+	"description": "",
+	"main": "server.js",
+	"scripts": {
+		"dev": "node server.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [],
+	"author": "aleem ahmed",
+	"license": "MIT",
+	"dependencies": {
+		"dotenv": "^6.2.0",
+		"nodemailer": "^5.1.1"
+	}
+}
